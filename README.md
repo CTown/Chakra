@@ -1,4 +1,4 @@
 Chakra
 ======
 
-For use in CCR
+For uploading custom package sources for the CCR.
